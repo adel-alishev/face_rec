@@ -1,0 +1,6 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+1.jpg,1000,1500,face,233,241,699,880
+2.jpg,1000,1000,face,364,250,837,829
+3.jpg,540,360,face,194,14,340,242
+4.jpg,388,388,face,80,25,303,350
+5.jpg,450,504,face,87,39,390,448
